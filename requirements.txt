@@ -1,3 +1,5 @@
+# The requirements are only used for local setup - Zappa uses your local environment to determine the environment setup for Lambda.
+
 argcomplete==1.8.2
 base58==0.2.4
 botocore==1.5.6
